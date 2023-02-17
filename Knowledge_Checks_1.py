@@ -17,7 +17,7 @@ State_Capital = { 'Alabama' : 'Montgomery' , 'Alaska' :	'Juneau',
 State_population = {'Kentucky' : '746,045', 'Indiana' : '2,492,514', "Georgia" : '6,930,423',
 'Carlifornia' : '2,680,831'}
 
-print(State_Capital)
+print(State_Capital['Alaska'])
 
 
 # A tuple with 4 values. Print one of them.
